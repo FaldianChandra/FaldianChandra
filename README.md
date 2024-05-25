@@ -10,10 +10,6 @@
 <a href="https://linkedin.com/in/faldianchandra" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://youtube.com/user/YOUR_YOUTUBE_CHANNEL" target="_blank">
-  <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
 
 - ⚡ I enjoy reading, lifting weights, playing soccer :)
 
