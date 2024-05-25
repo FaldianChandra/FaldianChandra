@@ -1,5 +1,3 @@
-FaldianChandra / README.md
-
 ⚡ I enjoy reading, lifting weights, playing soccer :)
 📫 Reach out to me: faldian.bulyono@gmail.com
 
